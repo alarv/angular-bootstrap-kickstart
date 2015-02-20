@@ -1,4 +1,4 @@
-angular.module('loginApp').config(['$stateProvider', '$urlRouterProvider',
+angular.module('myApp').config(['$stateProvider', '$urlRouterProvider',
 function($stateProvider, $urlRouterProvider) {
 
 	// For any unmatched url, redirect to /
